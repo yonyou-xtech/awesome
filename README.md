@@ -17,6 +17,7 @@
 - [tplusfx 多端快速开发框架]()
 - [MTL 多端统一开发框架]()
 - [MDF 模型驱动开发框架]()
+- [友空间轻量化开发框架]() Jsbridge.js+脚手架
 
 ## Node.js
 
@@ -31,8 +32,8 @@
 
 ## JSSDK
 
-- [YYIMSDK](https://github.com/iuap-design/YYIMSDK)
-- [小友 WebSDK]()
+- [YYIMSDK](https://github.com/iuap-design/YYIMSDK) IM 通讯SDK
+- [小友 WebSDK]() 
 
 ## 工具 Tools
 
