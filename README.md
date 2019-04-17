@@ -13,6 +13,8 @@
 
 - [ucf-web 微前端框架](https://www.yuque.com/ucf-web/book)
 - [Moy.js 前端框架](http://docs.tinper.org/moy/index.html)，基于 Knockout.js，集成 Kero 模型框架。
+- [mutants 工作圈轻应用开发框架](http://mutants.dev.chanjet.com/),基于 [工作圈原生平台](http://gzq.chanjet.com/)的H5开发框架。
+- [tplusfx 多端快速开发框架]()
 
 ## Node.js
 
